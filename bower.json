@@ -1,0 +1,14 @@
+{
+  "name": "WavesNodeChecker",
+  "description": "Fork of http://gitlab.dsalab.de/marc.jansen/wavesnodechecker",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "ngstorage": "^0.3.11"
+  }
+}
